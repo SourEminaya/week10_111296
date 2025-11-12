@@ -5,5 +5,8 @@ public class CEO extends Pekerja{
 	public void tanyaIdentitas() {
 		System.out.println("Saya CEO biasa");
 	}
+	public void tanyaPendapatan() {
+		System.out.println("Pendapatan 100 juta/bulan");
+	}
 
 }
